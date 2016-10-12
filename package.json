@@ -1,8 +1,11 @@
 {
-  "name": "md-convert-html",
-  "version": "1.0.0",
+  "name": "md-convert-html2",
+  "version": "1.0.2",
   "description": "一个 markdown 转 html 的小工具",
   "main": "index.js",
+  "bin": {
+    "convert": "./bin/convert"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
