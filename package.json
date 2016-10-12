@@ -1,0 +1,16 @@
+{
+  "name": "md-convert-html",
+  "version": "1.0.0",
+  "description": "一个 markdown 转 html 的小工具",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "markdown",
+    "html",
+    "convert"
+  ],
+  "author": "ruoyu",
+  "license": "ISC"
+}
